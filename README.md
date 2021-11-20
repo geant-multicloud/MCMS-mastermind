@@ -2,7 +2,7 @@
 
 #  MasterMind
 
-MCMS is a cloud management, orchestration and accounting system. 
+MCMS is a cloud management, orchestration and accounting system based on the WALDUR framework. 
 
 Common uses include:
 
