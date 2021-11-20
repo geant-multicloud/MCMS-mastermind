@@ -1,8 +1,8 @@
-<img src="https://waldur.com/assets/img/logo.svg" alt="Waldur Logo" width="400"/>
 
-# Waldur MasterMind
 
-Waldur is a cloud management, orchestration and accounting system. Used in government clouds, universities, HPC centres and mid-to-large enterprises.
+#  MasterMind
+
+MCMS is a cloud management, orchestration and accounting system. 
 
 Common uses include:
 
